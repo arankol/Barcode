@@ -9,3 +9,8 @@
 Пример созданного Excel
 
 ![image](https://user-images.githubusercontent.com/85194344/229149486-e8ad998e-d4bb-4665-8422-d1ce7cafd39f.png)
+
+При распечатывании указываем все поля = 0
+
+![image](https://user-images.githubusercontent.com/85194344/229149795-a6a0621a-eaa8-451e-9dd3-e9f4e591e0bf.png)
+
