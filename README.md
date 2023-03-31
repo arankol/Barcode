@@ -5,3 +5,7 @@
 Скрин программы:
 
 ![Screen](https://user-images.githubusercontent.com/85194344/229148988-ae71e7f1-1f9c-49e1-b68b-90422c332027.png)
+
+Пример созданного Excel
+
+![image](https://user-images.githubusercontent.com/85194344/229149486-e8ad998e-d4bb-4665-8422-d1ce7cafd39f.png)
