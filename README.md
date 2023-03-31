@@ -14,3 +14,5 @@
 
 ![image](https://user-images.githubusercontent.com/85194344/229149795-a6a0621a-eaa8-451e-9dd3-e9f4e591e0bf.png)
 
+В конечном итоге лист A4 будет выглядеть так
+![image](https://user-images.githubusercontent.com/85194344/229150189-fb725d20-8534-4129-81f3-3f7d1f6095da.png)
